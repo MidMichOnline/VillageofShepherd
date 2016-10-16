@@ -1,6 +1,5 @@
 # Summary
 
-* [Summary](summary.md)
-* [ShepherdAthletics](shepherdathletics.md)
-* [CommunityNews](communitynews.md)
+* [Shepherd Athletics](shepherdathletics.md)
+* [Community News](communitynews.md)
 
