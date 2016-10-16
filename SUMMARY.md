@@ -1,5 +1,5 @@
-# Contents
+# Summary
 
-##October 16, 2016
-* Athletics
+* [Summary](summary.md)
+* ShepherdAthletics
 
