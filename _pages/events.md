@@ -9,5 +9,9 @@ permalink: http://www.shepherdhistory.org/events/
 published: true
 tags: [ ]
 categories: [ ]
+afap_auto_post:
+  - 'no'
+wide_assets:
+  - ""
 ---
 CONTENTS
