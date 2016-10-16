@@ -18,7 +18,7 @@ top_term:
   - "1"
 tags: [ ]
 categories:
-  - Uncategorized
+  - Sports
 ---
 # Shepherd Athletics - 10/16/2016
 
