@@ -1,6 +1,6 @@
 ---
 ID: 847
-post_title: 'The Brief &amp;'
+post_title: The Brief
 author: Jon Morgan
 post_date: 2016-10-07 18:08:30
 post_excerpt: ""
@@ -11,11 +11,11 @@ published: true
 wide_assets:
   - ""
 afap_auto_post:
-  - ""
+  - 'no'
 custom_sidebar:
-  - ""
+  - none
 top_term:
-  - ""
+  - "80"
 featured_media:
   - ""
 title:
