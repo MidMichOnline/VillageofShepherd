@@ -2,5 +2,5 @@
 
 * [Summary](summary.md)
 * [ShepherdAthletics](shepherdathletics.md)
-* CommunityNews
+* [CommunityNews](communitynews.md)
 
