@@ -1,5 +1,5 @@
 # Summary
 
 * [Summary](summary.md)
-* ShepherdAthletics
+* [ShepherdAthletics](shepherdathletics.md)
 
