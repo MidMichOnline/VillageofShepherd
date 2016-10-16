@@ -1,3 +1,7 @@
+---
+post_title: 'Shepherd Athletics &#8211; 10/16/2016'
+layout: post
+- - -
 # Community News 10/16/2016
 
 -
