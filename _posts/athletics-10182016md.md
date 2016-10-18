@@ -1,4 +1,8 @@
+---
+post_title: 'Athletics - 10/18/2016'
+layout: post
 
+---
 # Athletics - 10/18/2016
 
 @[Andrea Elizabeth Hall](http://www.shepherdhistory.org/business-directory/name/andrea-hall/):
