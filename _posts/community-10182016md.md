@@ -1,3 +1,8 @@
+---
+post_title: 'Community 10/18/2016'
+layout: post
+
+---
 # Community 10/18/2016
 
 @[Shepherd Police Department](http://www.shepherdhistory.org/business-directory/name/shepherd-police-department/):
