@@ -8,5 +8,5 @@
 * [Community 10/17/2016](_posts/communitynews.md)
 * [Schools 10/17/2016](_posts/schools-10172016.md)
 * [Mid Michigan News 10/17/2016](_posts/midmichigannews-10172016.md)
-* Financial Aid Night
+* [Financial Aid Night](financialaidnight.md)
 
