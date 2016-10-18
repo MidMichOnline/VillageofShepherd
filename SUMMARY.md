@@ -15,6 +15,7 @@
 ##School
 
 * [Schools 10/17/2016](_posts/schools-10172016.md)
+* [Financial Aid Night](financialaidnight.md)
 
 ##Mid Michigan News
 * [Mid Michigan News 10/17/2016](_posts/midmichigannews-10172016.md)
