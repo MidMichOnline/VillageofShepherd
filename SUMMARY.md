@@ -1,4 +1,4 @@
-# Summary
+# Contents
 
 * [Introduction](README.md)
 * [Sports 10/18/2016](_posts/athletics-10182016md.md)
