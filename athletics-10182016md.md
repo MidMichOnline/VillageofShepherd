@@ -1,6 +1,6 @@
 # Athletics - 10/18/2016
 
-@Andrea Elizabeth Hall
+@[Andrea Elizabeth Hall](http://www.shepherdhistory.org/business-directory/name/andrea-hall/):
 
 > You're Invited!
 > To Join the 2016 - 2017 Shepherd Middle School
@@ -11,6 +11,13 @@
 > TAG your friends, to Invite them too!!! Complete Information Packets will be available in the Middle School Office starting Monday, October 31st.
 Until then if you have any questions, please ask to be added to the MS COMPETITIVE 2016-17 Facebook Group.
 -Coach Danielle Bentley
+
+-
+
+@[Shepherd Varsity Wrestling](http://www.shepherdhistory.org/business-directory/name/shepherd-varsity-wrestling/):
+
+
+> High School Wrestling sign ups this Thursday in the media center during lunch. Please make some time to get signed up.
 
 -
 
