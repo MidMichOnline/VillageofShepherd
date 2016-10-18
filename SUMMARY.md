@@ -1,6 +1,6 @@
-# Summary
+# Contents
 
-* [Introduction](README.md)
+* [Title](README.md)
 
 ###Sports
 * [10/17/2016](_posts/2016-10-16-shepherd-athletics-10162016.md)
