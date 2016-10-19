@@ -9,6 +9,8 @@ permalink: 'http://www.shepherdhistory.org/?post_type=fork&p=1328'
 published: false
 wide_assets:
   - ""
+afap_auto_post:
+  - 'yes'
 tags: [ ]
 categories: [ ]
 ---
