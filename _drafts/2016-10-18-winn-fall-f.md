@@ -24,6 +24,6 @@ This is going to be an Awesome family event.
 &gt;4-8 p.m.
 &gt;Winn Community Center
 
-![](14716286_1322516347766930_7739879835736523434_n.jpg)
+![](14716286_1322516347766930_7739879835736523434_n.jpg
 
 -
