@@ -8,15 +8,13 @@
 
 ##Community News
 * [Shepherd Police Department](shepherdpolicedepartment.md)
-* [Community 10/18/2016](_posts/community-10182016.md)
-* [Community 10/17/2016](_posts/communitynews.md)
+
 
 ##Schools
-* [Schools 10/17/2016](_posts/schools-10172016.md)
 * [Financial Aid Night](financialaidnight.md)
 
 ##Mid Michigan News
-
+* [Mid Michigan News 10/17](_posts/2016-10-17-mid-michigan-news-10172016.md)
 
 * [Directory](directory.md)
 
