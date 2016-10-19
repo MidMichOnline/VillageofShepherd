@@ -13,12 +13,9 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-# 
-
-@ Shepherd High School
+@Shepherd High School
 
 Announcements for Tuesday, October 18th:
-
 
 * Science Club: Please bring your $5.00 membership fee to Katelyn or Kylie Hutchinson by November 2.
 * Eat pizza and help find a cure for Polio, at the same time. This Friday, the 21st, purchase pizza from Mitchell's Deli, Marita's or the Shepherd Bar and a portion of the proceeds will be sent to help find a cure for polio in the Third World countries. This event is sponsored by the Shepherd Rotary and Interact Clubs.
