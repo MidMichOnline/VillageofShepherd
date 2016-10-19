@@ -8,7 +8,6 @@
 ##Community News
 * [Shepherd Police Department](shepherdpolicedepartment.md)
 
-
 ##Schools
 * [Financial Aid Night](financialaidnight.md)
 * [Winn Fall Festival](_drafts/2016-10-18-winn-fall-f.md)
