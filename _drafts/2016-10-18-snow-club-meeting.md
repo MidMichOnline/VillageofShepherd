@@ -13,9 +13,6 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-# 
-
 @Shepherd High School:
-
 
 > There will be a Snow Club meeting Thursday, Oct. 20th in Ms. Chaney's room. I hope to be able to elect officers, discuss the overnight trip, and fundraiser ideas. If you are interested in skiing or snowboarding, you are encouraged to attend.
