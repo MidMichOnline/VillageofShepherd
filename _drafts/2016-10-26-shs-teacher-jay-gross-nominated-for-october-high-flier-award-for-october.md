@@ -13,6 +13,7 @@ wide_assets:
   - ""
 tags: [ ]
 categories:
+  - SAR-10282016
   - Schools
 ---
 @Shepherd High School:
