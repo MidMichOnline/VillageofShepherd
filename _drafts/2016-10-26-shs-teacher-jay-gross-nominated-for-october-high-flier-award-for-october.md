@@ -15,3 +15,5 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
+@Shepherd High School:
+<blockquote>Congratulations to Mr. Jay Gross. Jay was nominated by Mr. Butch as the October High Flier for Shepherd High School.</blockquote>
