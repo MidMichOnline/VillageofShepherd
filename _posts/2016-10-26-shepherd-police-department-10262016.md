@@ -1,6 +1,8 @@
 ---
 ID: 1438
-post_title: 'Shepherd Police Department &#8211; 10/26/2016'
+post_title: >
+  Shepherd Police Department –
+  10/26/2016
 author: Jon Morgan
 post_date: 2016-10-26 22:39:37
 post_excerpt: ""
@@ -13,13 +15,12 @@ wide_assets:
 custom_sidebar:
   - none
 top_term:
-  - "1"
+  - "48"
 tags: [ ]
 categories:
   - Community
 ---
-
-#  Shepherd Police Department
+# Shepherd Police Department
 
 ## Snow Safety Reminder
 
