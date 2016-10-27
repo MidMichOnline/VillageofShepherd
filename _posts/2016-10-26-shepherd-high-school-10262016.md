@@ -18,10 +18,6 @@ tags: [ ]
 categories:
   - Schools
 ---
----
-post_title: Shepherd High School - 10/26/2016
-layout: post
----
 
 
 # Shepherd High School
