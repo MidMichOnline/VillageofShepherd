@@ -23,15 +23,15 @@ categories:
 ## SHS Teacher Jay Gross nominated for the High Flier Award for October
 
 
-&gt; Congratulations to Mr. Jay Gross. Jay was nominated by Mr. Butch as the October High Flier for Shepherd High School.
+> Congratulations to Mr. Jay Gross. Jay was nominated by Mr. Butch as the October High Flier for Shepherd High School.
 
 - - -
-##Shepherd Varsity Volleyball to compete in TVC Tournament on Oct. 29
+## Shepherd Varsity Volleyball to compete in TVC Tournament on Oct. 29
 
-&gt; Shepherd varsity volleyball team will be competing in the TVC tournament this Saturday in Alma at 9:00 a.m. They also begin state tournament action next Monday at Belding at 7:00 p.m. vs Central Montcalm. Come out and support your Lady Jays!
+> Shepherd varsity volleyball team will be competing in the TVC tournament this Saturday in Alma at 9:00 a.m. They also begin state tournament action next Monday at Belding at 7:00 p.m. vs Central Montcalm. Come out and support your Lady Jays!
 - - -
 
-##Announcements
+## Announcements
 - On Saturday the Boys &amp; Girls Cross Country Teams will be competing in Regionals at home! Both teams are currently ranked in the Top 10 in Division 3 for the State. To qualify for the State Finals the teams will need to finish in the Top 3 on Saturday. The boys race starts at 10:30 AM and the girls race starts at 11:30 AM. The runners could take as much help and encouragement as possible out on the course and our home course is very spectator friendly, so come check out what Cross Country is all about!
 - There will be a Snow Club meeting tomorrow, Thursday, Oct. 27th in Ms Chaney's room during lunch. There will be more discussion on the Overnight Trip and fundraisers. Anyone interested in skiing or snowboarding, please attend.
 - There is a Student Improvement Team meeting TODAY during lunch, in the media center conference room. All newly invited and current members should get their lunches and attend.
