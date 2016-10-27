@@ -1,6 +1,6 @@
 ---
 ID: 1429
-post_title: 'Shepherd High School &#8211; 10/26/2016'
+post_title: Shepherd High School – 10/26/2016
 author: Jon Morgan
 post_date: 2016-10-26 22:13:42
 post_excerpt: ""
@@ -13,27 +13,22 @@ wide_assets:
 custom_sidebar:
   - none
 top_term:
-  - "46"
+  - "27"
 tags: [ ]
 categories:
   - Schools
 ---
-
-
 # Shepherd High School
 
 ## SHS Teacher Jay Gross nominated for the High Flier Award for October
 
 
-
-### @[Shepherd High School](https://www.facebook.com/shepherdmihs/?fref=nf):
-> Congratulations to Mr. Jay Gross. Jay was nominated by Mr. Butch as the October High Flier for Shepherd High School.
+&gt; Congratulations to Mr. Jay Gross. Jay was nominated by Mr. Butch as the October High Flier for Shepherd High School.
 
 - - -
 ##Shepherd Varsity Volleyball to compete in TVC Tournament on Oct. 29
 
-###@Shepherd High School:
-> Shepherd varsity volleyball team will be competing in the TVC tournament this Saturday in Alma at 9:00 a.m. They also begin state tournament action next Monday at Belding at 7:00 p.m. vs Central Montcalm. Come out and support your Lady Jays!
+&gt; Shepherd varsity volleyball team will be competing in the TVC tournament this Saturday in Alma at 9:00 a.m. They also begin state tournament action next Monday at Belding at 7:00 p.m. vs Central Montcalm. Come out and support your Lady Jays!
 - - -
 
 ##Announcements
