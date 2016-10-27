@@ -18,10 +18,6 @@ tags: [ ]
 categories:
   - Community
 ---
----
-post_title: Shepherd Police Department - 10/26/2016
-layout: post
----
 
 #  Shepherd Police Department
 
@@ -41,13 +37,13 @@ A great thing to remember to keep you safe on the roads...always expect the othe
 ## Halloween Events
 
 There are a few Halloween events coming up in the Village that I wanted to make you aware of....
-####Haunted Forest at Salt River Park:
+#### Haunted Forest at Salt River Park:
 - 10/27 is Family Friendly Night from 6-8PM
 - Cost is $1 per person or $5 for a family
 - 10/28 and 10/29 is from 7-10PM and not recommended for anyone under the age of 13 years old. The cost is $3 per person and $10 for groups of 5 or less.
 - The group putting on the event donates $.50 of every admission to a local charity.
-####Shepherd Elementary Parade:
+#### Shepherd Elementary Parade:
 - 10/31 starting at 1:30PM. The parade will leave the school, down 4th Street, down Wright Avenue to 2nd Street, down 2nd Street to Maple Street, down Maple Street to 4th Street and back to the school. Our Department, Shepherd DPW and Fire Department will be shutting down the streets. We encourage everyone to come out and see all of our young Blue Jay's and their costumes.
-####Trunk or Treat
+#### Trunk or Treat
 - 10/31 from 5:30-7:30PM on Wright Avenue between 2nd and 3rd Street. This is a great event! If you don't have children, but would like to bring candy to hand out call Gina Gross at 989-828-4936 to register.
 - We would love for every resident to participate in Trunk or Treat, but some still like traditional trick or treating at their door (and there is nothing wrong with preferring that). If you would like trick or treaters to come to your door, please have your porch light on.
