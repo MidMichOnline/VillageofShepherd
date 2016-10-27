@@ -15,16 +15,18 @@ afap_auto_post:
 custom_sidebar:
   - none
 top_term:
-  - "27"
+  - "50"
 tags: [ ]
 categories:
   - SAR-10282016
   - Schools
 ---
-	<li>SHS Teacher Jay Gross nominated for the High Flier Award for October
-	<li>Shepherd Varsity Volleyball to compete in TVC Tournament on Oct. 29</li>
-	<li>SHS Announcements</li>
-	<li>Mid Michigan news Roundup</li>
-	<li>Snow Safety Reminder</li>
-	<li>Runaway Pig</li>
-	<li>Halloween Events</li></li>
+* SHS Teacher Jay Gross nominated for the High Flier Award for October
+* Shepherd Varsity Volleyball to compete in TVC Tournament on Oct. 29
+* SHS Announcements
+* Mid Michigan news Roundup
+* Snow Safety Reminder
+* Runaway Pig
+* Halloween Events
+
+[Read](https://medium.com/the-shepherd-forum/the-shepherd-digest-66468e71316d#.xeqr8kkej)
