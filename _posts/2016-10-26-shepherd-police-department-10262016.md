@@ -16,7 +16,7 @@ top_term:
   - "1"
 tags: [ ]
 categories:
-  - Uncategorized
+  - Community
 ---
 ---
 post_title: Shepherd Police Department - 10/26/2016
